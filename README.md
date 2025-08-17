@@ -6,7 +6,6 @@ I’m passionate about building scalable software solutions that bridge business
 
 My projects often combine Python/Django, Node.js, and React with modern DevOps practices (Docker, Kubernetes, CI/CD) to ensure robustness and scalability. Beyond coding, I enjoy designing solutions that automate processes, integrate data, and optimize workflows.
 
-## 🚀 Tech Stack
 
 ## 🚀 Tech Stack
 
